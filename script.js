@@ -29,16 +29,16 @@ var i = 0,
   isParagraph = false;
 
 var textArray = [
-  "Hey girl ಥ_ಥ",
+  "Hey love ❤️",
   "I just want to say that",
-  "Every day, I find inspiration in you.",
-  "Your strength and passion motivate me",
-  "to strive for my best.",
+  "Every day, you amaze me.",
+  "Your kindness and smile brighten my day",
+  "and make everything better.",
   "Knowing that",
-  "you’re in my life",
-  "pushes me to work harder",
-  "and be a better person.",
-  "I love you so much.",
+  "you’re by my side",
+  "gives me strength",
+  "and makes me so happy.",
+  "I love you more than words can say.",
 ];
 
 var speedForward = 100,
